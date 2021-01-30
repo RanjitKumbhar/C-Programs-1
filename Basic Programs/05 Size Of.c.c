@@ -13,6 +13,7 @@ int main()
     printf("\n\t%d",sizeof(a));
     printf("\n\t%d",sizeof(b));
     printf("\n=================");
+    printf("\n Demo Try for Changes");
 
  getch();
  return 0;
